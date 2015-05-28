@@ -40,7 +40,7 @@ and open the template in the editor.
         <div class="container">
         <div class="starter-template">
             <?php
-        // put your code here
+        echo ('HOLA MUNDO');
         ?>
   
             
